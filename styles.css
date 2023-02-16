@@ -1,0 +1,42 @@
+.first {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+
+}
+
+.second {
+  display: inline-block;
+  border: 2px solid#1b083d;
+  border-radius: 5px;
+  padding: 3px;
+}
+
+body {
+  background-color: #caf7b0;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.btn {
+  cursor: pointer;
+  background-color: white;
+  color: #f51302;
+  border: none;
+
+
+}
+
+.btn_2 {
+  cursor: pointer;
+  background-color: white;
+  color: red;
+  border: none;
+}
+
+.btn_3 {
+  cursor: pointer;
+  background-color: white;
+  color: red;
+  border: none;
+}
